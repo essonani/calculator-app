@@ -1,0 +1,15 @@
+C:\Users\esson\source\repos\ConsoleApp2\bin\Debug\net6.0\calculator app.exe
+C:\Users\esson\source\repos\ConsoleApp2\bin\Debug\net6.0\calculator app.deps.json
+C:\Users\esson\source\repos\ConsoleApp2\bin\Debug\net6.0\calculator app.runtimeconfig.json
+C:\Users\esson\source\repos\ConsoleApp2\bin\Debug\net6.0\calculator app.dll
+C:\Users\esson\source\repos\ConsoleApp2\bin\Debug\net6.0\calculator app.pdb
+C:\Users\esson\source\repos\ConsoleApp2\obj\Debug\net6.0\calculator app.csproj.AssemblyReference.cache
+C:\Users\esson\source\repos\ConsoleApp2\obj\Debug\net6.0\calculator app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esson\source\repos\ConsoleApp2\obj\Debug\net6.0\calculator app.AssemblyInfoInputs.cache
+C:\Users\esson\source\repos\ConsoleApp2\obj\Debug\net6.0\calculator app.AssemblyInfo.cs
+C:\Users\esson\source\repos\ConsoleApp2\obj\Debug\net6.0\calculator app.csproj.CoreCompileInputs.cache
+C:\Users\esson\source\repos\ConsoleApp2\obj\Debug\net6.0\calculator app.dll
+C:\Users\esson\source\repos\ConsoleApp2\obj\Debug\net6.0\refint\calculator app.dll
+C:\Users\esson\source\repos\ConsoleApp2\obj\Debug\net6.0\calculator app.pdb
+C:\Users\esson\source\repos\ConsoleApp2\obj\Debug\net6.0\calculator app.genruntimeconfig.cache
+C:\Users\esson\source\repos\ConsoleApp2\obj\Debug\net6.0\ref\calculator app.dll
